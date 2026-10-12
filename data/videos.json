@@ -1,0 +1,89 @@
+{
+  "schema": 1,
+  "channelId": "UCfeNssjQJWU15LUk74vMkrA",
+  "channelUrl": "https://www.youtube.com/@avon_home",
+  "source": "seed",
+  "long": [
+    {
+      "id": "dwLQnnlppYQ",
+      "type": "long",
+      "titleRaw": "“더 이상 주방정리에 애쓰지 마세요”｜덜 치우고 깔끔하게 사는 현실 주방 루틴",
+      "published": "2026-10-06T00:00:00+00:00",
+      "publishedApprox": true,
+      "origin": "seed",
+      "title": "“더 이상 주방정리에 애쓰지 마세요”｜덜 치우고 깔끔하게 사는 현실 주방 루틴",
+      "url": "https://www.youtube.com/watch?v=dwLQnnlppYQ",
+      "verifiedAt": "2026-10-12T10:58:13+09:00",
+      "thumb": "data/thumbs/dwLQnnlppYQ.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/dwLQnnlppYQ/hq720.jpg"
+    },
+    {
+      "id": "oWmYiz1an_4",
+      "type": "long",
+      "titleRaw": "다이❌ 쿠❌ 이제 그만! 살림이 편해지는 현실 정리 꼼수 3가지",
+      "published": "2026-09-29T00:00:00+00:00",
+      "publishedApprox": true,
+      "origin": "seed",
+      "title": "다이❌ 쿠❌ 이제 그만! 살림이 편해지는 현실 정리 꼼수 3가지",
+      "url": "https://www.youtube.com/watch?v=oWmYiz1an_4",
+      "verifiedAt": "2026-10-12T10:58:13+09:00",
+      "thumb": "data/thumbs/oWmYiz1an_4.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/oWmYiz1an_4/hq720.jpg"
+    },
+    {
+      "id": "thcSFd7uFAQ",
+      "type": "long",
+      "titleRaw": "SNS처럼 따라 사도 집이 안 예쁜 이유｜돈 들이지 않고 집 꾸미는 3가지",
+      "published": "2026-09-22T00:00:00+00:00",
+      "publishedApprox": true,
+      "origin": "seed",
+      "title": "SNS처럼 따라 사도 집이 안 예쁜 이유｜돈 들이지 않고 집 꾸미는 3가지",
+      "url": "https://www.youtube.com/watch?v=thcSFd7uFAQ",
+      "verifiedAt": "2026-10-12T10:58:13+09:00",
+      "thumb": "data/thumbs/thcSFd7uFAQ.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/thcSFd7uFAQ/hq720.jpg"
+    }
+  ],
+  "shorts": [
+    {
+      "id": "IHjE122H4IA",
+      "type": "short",
+      "titleRaw": "옷 정리, 매번 하지 마세요｜집이 깔끔해지는 현실 정리 꼼수",
+      "published": "2026-10-11T00:00:00+00:00",
+      "publishedApprox": true,
+      "origin": "seed",
+      "title": "옷 정리, 매번 하지 마세요｜집이 깔끔해지는 현실 정리 꼼수",
+      "url": "https://www.youtube.com/shorts/IHjE122H4IA",
+      "verifiedAt": "2026-10-12T10:58:13+09:00",
+      "thumb": "data/thumbs/IHjE122H4IA.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/IHjE122H4IA/maxresdefault.jpg"
+    },
+    {
+      "id": "F4TMaHYqmmU",
+      "type": "short",
+      "titleRaw": "싱크볼 청소, 너무 애쓰지 마세요｜청소가 쉬워진 이유",
+      "published": "2026-10-08T00:00:00+00:00",
+      "publishedApprox": true,
+      "origin": "seed",
+      "title": "싱크볼 청소, 너무 애쓰지 마세요｜청소가 쉬워진 이유",
+      "url": "https://www.youtube.com/shorts/F4TMaHYqmmU",
+      "verifiedAt": "2026-10-12T10:58:13+09:00",
+      "thumb": "data/thumbs/F4TMaHYqmmU.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/F4TMaHYqmmU/maxresdefault.jpg"
+    },
+    {
+      "id": "tL9PZ0sH80c",
+      "type": "short",
+      "titleRaw": "컵 설거지, 이렇게 줄였어요 #살림꿀팁 #살림팁 #살림 #주방살림 #집안일꿀팁",
+      "published": "2026-10-07T00:00:00+00:00",
+      "publishedApprox": true,
+      "origin": "seed",
+      "title": "컵 설거지, 이렇게 줄였어요",
+      "url": "https://www.youtube.com/shorts/tL9PZ0sH80c",
+      "verifiedAt": "2026-10-12T10:58:13+09:00",
+      "thumb": "data/thumbs/tL9PZ0sH80c.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/tL9PZ0sH80c/maxresdefault.jpg"
+    }
+  ],
+  "generatedAt": "2026-10-12T10:58:13+09:00"
+}
