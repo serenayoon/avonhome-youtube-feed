@@ -1,9 +1,9 @@
 {
   "lastChangeAt": "2026-10-12T10:58:13+09:00",
   "rssOk": false,
-  "lastError": "simulated RSS failure (test)",
-  "lastCheckedAt": "2026-10-12T11:01:32+09:00",
-  "lastErrorAt": "2026-10-12T11:01:32+09:00",
-  "consecutiveFailures": 2,
+  "lastError": "RSS HTTP 404",
+  "lastCheckedAt": "2026-10-12T11:03:05+09:00",
+  "lastErrorAt": "2026-10-12T11:03:05+09:00",
+  "consecutiveFailures": 3,
   "heartbeat": "2026-10-12"
 }
