@@ -1,0 +1,56 @@
+name: Update YouTube feed
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # every hour at :17 (UTC). GitHub may delay scheduled runs.
+  workflow_dispatch:
+    inputs:
+      simulate_rss_failure:
+        description: "Test: pretend the RSS is down (existing data must stay unchanged)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install --disable-pip-version-check pillow==10.4.0
+
+      - name: Update data
+        id: update
+        env:
+          SIMULATE_RSS_FAILURE: ${{ inputs.simulate_rss_failure }}
+        run: python scripts/update_youtube.py
+
+      - name: Commit changes (only if data changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update YouTube feed"
+            git push
+          fi
+
+      - name: Mark run as failed when RSS was unavailable (data was kept)
+        if: steps.update.outputs.rss_ok == 'false'
+        run: |
+          echo "::error::YouTube RSS was unavailable. videos.json was NOT changed. See data/status.json."
+          exit 1
