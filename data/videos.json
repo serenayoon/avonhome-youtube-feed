@@ -5,6 +5,17 @@
   "source": "rss",
   "long": [
     {
+      "id": "hNFFmIJS1H8",
+      "type": "long",
+      "title": "좁은 세탁실 공간 2배로 쓰는 3가지 꿀팁｜좁은 세탁실 넓게 쓰는 수납 꿀팁",
+      "titleRaw": "좁은 세탁실 공간 2배로 쓰는 3가지 꿀팁｜좁은 세탁실 넓게 쓰는 수납 꿀팁",
+      "url": "https://www.youtube.com/watch?v=hNFFmIJS1H8",
+      "published": "2026-10-13T03:57:52+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/hNFFmIJS1H8.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/hNFFmIJS1H8/hq720.jpg"
+    },
+    {
       "id": "dwLQnnlppYQ",
       "type": "long",
       "title": "“더 이상 주방정리에 애쓰지 마세요”｜덜 치우고 깔끔하게 사는 현실 주방 루틴",
@@ -25,17 +36,6 @@
       "origin": "rss",
       "thumb": "data/thumbs/oWmYiz1an_4.webp",
       "thumbRemote": "https://i.ytimg.com/vi/oWmYiz1an_4/hq720.jpg"
-    },
-    {
-      "id": "thcSFd7uFAQ",
-      "type": "long",
-      "title": "SNS처럼 따라 사도 집이 안 예쁜 이유｜돈 들이지 않고 집 꾸미는 3가지",
-      "titleRaw": "SNS처럼 따라 사도 집이 안 예쁜 이유｜돈 들이지 않고 집 꾸미는 3가지",
-      "url": "https://www.youtube.com/watch?v=thcSFd7uFAQ",
-      "published": "2026-09-22T04:34:58+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/thcSFd7uFAQ.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/thcSFd7uFAQ/hq720.jpg"
     }
   ],
   "shorts": [
@@ -73,5 +73,5 @@
       "thumbRemote": "https://i.ytimg.com/vi/tL9PZ0sH80c/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-10-12T18:16:24+09:00"
+  "generatedAt": "2026-10-13T18:27:56+09:00"
 }
