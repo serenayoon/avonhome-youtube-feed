@@ -40,6 +40,17 @@
   ],
   "shorts": [
     {
+      "id": "j-6Yf6WrQkg",
+      "type": "short",
+      "title": "충전기 정리, 숨기지 말고 이렇게 해보세요",
+      "titleRaw": "충전기 정리, 숨기지 말고 이렇게 해보세요",
+      "url": "https://www.youtube.com/shorts/j-6Yf6WrQkg",
+      "published": "2026-10-15T01:54:02+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/j-6Yf6WrQkg.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/j-6Yf6WrQkg/maxresdefault.jpg"
+    },
+    {
       "id": "IHjE122H4IA",
       "type": "short",
       "title": "옷 정리, 매번 하지 마세요｜집이 깔끔해지는 현실 정리 꼼수",
@@ -60,18 +71,7 @@
       "origin": "rss",
       "thumb": "data/thumbs/F4TMaHYqmmU.webp",
       "thumbRemote": "https://i.ytimg.com/vi/F4TMaHYqmmU/maxresdefault.jpg"
-    },
-    {
-      "id": "tL9PZ0sH80c",
-      "type": "short",
-      "title": "컵 설거지, 이렇게 줄였어요",
-      "titleRaw": "컵 설거지, 이렇게 줄였어요 #살림꿀팁 #살림팁 #살림 #주방살림 #집안일꿀팁",
-      "url": "https://www.youtube.com/shorts/tL9PZ0sH80c",
-      "published": "2026-10-07T05:45:26+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/tL9PZ0sH80c.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/tL9PZ0sH80c/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-10-14T02:36:52+09:00"
+  "generatedAt": "2026-10-15T16:29:14+09:00"
 }
