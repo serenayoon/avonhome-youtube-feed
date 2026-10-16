@@ -1,22 +1,22 @@
 {
   "lastChangeAt": "2026-10-15T16:29:14+09:00",
-  "lastCheckedAt": "2026-10-16T10:23:41+09:00",
+  "lastCheckedAt": "2026-10-16T16:13:22+09:00",
   "lastErrorAt": "2026-10-16T10:23:41+09:00",
-  "consecutiveFailures": 1,
+  "consecutiveFailures": 0,
   "heartbeat": "2026-10-16",
-  "dataOk": false,
-  "lastSource": "kept",
+  "dataOk": true,
+  "lastSource": "rss",
   "api": {
-    "at": "2026-10-16T10:23:41+09:00",
+    "at": "2026-10-16T16:13:22+09:00",
     "ok": false,
     "error": "YT_API_KEY not set",
     "calls": 0
   },
   "rss": {
-    "at": "2026-10-16T10:23:41+09:00",
+    "at": "2026-10-16T16:13:22+09:00",
     "attempted": true,
-    "ok": false,
-    "error": "RSS HTTP 404"
+    "ok": true,
+    "error": null
   },
-  "lastSuccessAt": "2026-10-16T03:20:03+09:00"
+  "lastSuccessAt": "2026-10-16T16:13:22+09:00"
 }
