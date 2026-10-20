@@ -5,6 +5,17 @@
   "source": "rss",
   "long": [
     {
+      "id": "BEFr22kPnQY",
+      "type": "long",
+      "title": "매년 15만 원 들던 세탁기 청소, 제가 직접 해요｜단정한 집을 위한 월 1회 청소 루틴",
+      "titleRaw": "매년 15만 원 들던 세탁기 청소, 제가 직접 해요｜단정한 집을 위한 월 1회 청소 루틴",
+      "url": "https://www.youtube.com/watch?v=BEFr22kPnQY",
+      "published": "2026-10-20T06:30:17+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/BEFr22kPnQY.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/BEFr22kPnQY/hq720.jpg"
+    },
+    {
       "id": "hNFFmIJS1H8",
       "type": "long",
       "title": "문도 제대로 못 닫던 세탁실, 이렇게 바꾸니 빨래 건조대까지 생겼어요 ｜세탁기 위 공간 활용법",
@@ -25,17 +36,6 @@
       "origin": "rss",
       "thumb": "data/thumbs/dwLQnnlppYQ.webp",
       "thumbRemote": "https://i.ytimg.com/vi/dwLQnnlppYQ/hq720.jpg"
-    },
-    {
-      "id": "oWmYiz1an_4",
-      "type": "long",
-      "title": "다이❌ 쿠❌ 이제 그만! 살림이 편해지는 현실 정리 꼼수 3가지",
-      "titleRaw": "다이❌ 쿠❌ 이제 그만! 살림이 편해지는 현실 정리 꼼수 3가지",
-      "url": "https://www.youtube.com/watch?v=oWmYiz1an_4",
-      "published": "2026-09-29T05:55:55+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/oWmYiz1an_4.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/oWmYiz1an_4/hq720.jpg"
     }
   ],
   "shorts": [
@@ -73,5 +73,5 @@
       "thumbRemote": "https://i.ytimg.com/vi/F4TMaHYqmmU/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-10-15T16:29:14+09:00"
+  "generatedAt": "2026-10-20T20:42:34+09:00"
 }
