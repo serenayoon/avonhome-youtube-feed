@@ -40,6 +40,17 @@
   ],
   "shorts": [
     {
+      "id": "ISbTxute5Og",
+      "type": "short",
+      "title": "세제 이렇게 넣으면 안 돼요! 드럼세탁기 세제 정량 넣는 법",
+      "titleRaw": "세제 이렇게 넣으면 안 돼요! 드럼세탁기 세제 정량 넣는 법",
+      "url": "https://www.youtube.com/shorts/ISbTxute5Og",
+      "published": "2026-10-20T08:00:06+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/ISbTxute5Og.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/ISbTxute5Og/maxresdefault.jpg"
+    },
+    {
       "id": "j-6Yf6WrQkg",
       "type": "short",
       "title": "충전기 정리, 숨기지 말고 이렇게 해보세요",
@@ -60,18 +71,7 @@
       "origin": "rss",
       "thumb": "data/thumbs/IHjE122H4IA.webp",
       "thumbRemote": "https://i.ytimg.com/vi/IHjE122H4IA/maxresdefault.jpg"
-    },
-    {
-      "id": "F4TMaHYqmmU",
-      "type": "short",
-      "title": "싱크볼 청소, 너무 애쓰지 마세요｜청소가 쉬워진 이유",
-      "titleRaw": "싱크볼 청소, 너무 애쓰지 마세요｜청소가 쉬워진 이유",
-      "url": "https://www.youtube.com/shorts/F4TMaHYqmmU",
-      "published": "2026-10-08T10:41:16+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/F4TMaHYqmmU.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/F4TMaHYqmmU/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-10-20T20:42:34+09:00"
+  "generatedAt": "2026-10-21T02:11:45+09:00"
 }
