@@ -40,6 +40,17 @@
   ],
   "shorts": [
     {
+      "id": "mxcBBzZEfMY",
+      "type": "short",
+      "title": "세탁기 청소할 때 놓치기 쉬운 3곳",
+      "titleRaw": "세탁기 청소할 때 놓치기 쉬운 3곳",
+      "url": "https://www.youtube.com/shorts/mxcBBzZEfMY",
+      "published": "2026-10-24T02:00:52+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/mxcBBzZEfMY.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/mxcBBzZEfMY/maxresdefault.jpg"
+    },
+    {
       "id": "TsQ-yvftKx4",
       "type": "short",
       "title": "섬유유연제 칸에 이걸 넣어야 하는 이유",
@@ -60,18 +71,7 @@
       "origin": "rss",
       "thumb": "data/thumbs/ISbTxute5Og.webp",
       "thumbRemote": "https://i.ytimg.com/vi/ISbTxute5Og/maxresdefault.jpg"
-    },
-    {
-      "id": "j-6Yf6WrQkg",
-      "type": "short",
-      "title": "충전기 정리, 숨기지 말고 이렇게 해보세요",
-      "titleRaw": "충전기 정리, 숨기지 말고 이렇게 해보세요",
-      "url": "https://www.youtube.com/shorts/j-6Yf6WrQkg",
-      "published": "2026-10-15T01:54:02+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/j-6Yf6WrQkg.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/j-6Yf6WrQkg/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-10-22T19:14:34+09:00"
+  "generatedAt": "2026-10-24T16:20:06+09:00"
 }
