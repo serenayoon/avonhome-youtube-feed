@@ -5,6 +5,17 @@
   "source": "rss",
   "long": [
     {
+      "id": "gHiiMGK2Zsg",
+      "type": "long",
+      "title": "집청소, 어디부터 할지 막막하다면｜하루 30분 아침 청소루틴",
+      "titleRaw": "집청소, 어디부터 할지 막막하다면｜하루 30분 아침 청소루틴",
+      "url": "https://www.youtube.com/watch?v=gHiiMGK2Zsg",
+      "published": "2026-10-26T06:42:05+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/gHiiMGK2Zsg.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/gHiiMGK2Zsg/hq720.jpg"
+    },
+    {
       "id": "BEFr22kPnQY",
       "type": "long",
       "title": "매년 15만 원 들던 세탁기 청소, 제가 직접 해요｜단정한 집을 위한 월 1회 청소 루틴",
@@ -25,17 +36,6 @@
       "origin": "rss",
       "thumb": "data/thumbs/hNFFmIJS1H8.webp",
       "thumbRemote": "https://i.ytimg.com/vi/hNFFmIJS1H8/hq720.jpg"
-    },
-    {
-      "id": "dwLQnnlppYQ",
-      "type": "long",
-      "title": "“더 이상 주방정리에 애쓰지 마세요”｜덜 치우고 깔끔하게 사는 현실 주방 루틴",
-      "titleRaw": "“더 이상 주방정리에 애쓰지 마세요”｜덜 치우고 깔끔하게 사는 현실 주방 루틴",
-      "url": "https://www.youtube.com/watch?v=dwLQnnlppYQ",
-      "published": "2026-10-06T04:38:57+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/dwLQnnlppYQ.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/dwLQnnlppYQ/hq720.jpg"
     }
   ],
   "shorts": [
@@ -73,5 +73,5 @@
       "thumbRemote": "https://i.ytimg.com/vi/ISbTxute5Og/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-10-24T16:20:06+09:00"
+  "generatedAt": "2026-10-26T23:18:46+09:00"
 }
