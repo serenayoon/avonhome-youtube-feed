@@ -40,6 +40,17 @@
   ],
   "shorts": [
     {
+      "id": "WZmx2V0dfWo",
+      "type": "short",
+      "title": "집청소, 눈 뜨면 이거부터 하세요",
+      "titleRaw": "집청소, 눈 뜨면 이거부터 하세요",
+      "url": "https://www.youtube.com/shorts/WZmx2V0dfWo",
+      "published": "2026-10-29T04:36:40+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/WZmx2V0dfWo.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/WZmx2V0dfWo/maxresdefault.jpg"
+    },
+    {
       "id": "mxcBBzZEfMY",
       "type": "short",
       "title": "세탁기 청소할 때 놓치기 쉬운 3곳",
@@ -60,18 +71,7 @@
       "origin": "rss",
       "thumb": "data/thumbs/TsQ-yvftKx4.webp",
       "thumbRemote": "https://i.ytimg.com/vi/TsQ-yvftKx4/maxresdefault.jpg"
-    },
-    {
-      "id": "ISbTxute5Og",
-      "type": "short",
-      "title": "세제 이렇게 넣으면 안 돼요! 드럼세탁기 세제 정량 넣는 법",
-      "titleRaw": "세제 이렇게 넣으면 안 돼요! 드럼세탁기 세제 정량 넣는 법",
-      "url": "https://www.youtube.com/shorts/ISbTxute5Og",
-      "published": "2026-10-20T08:00:06+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/ISbTxute5Og.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/ISbTxute5Og/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-10-26T23:18:46+09:00"
+  "generatedAt": "2026-10-29T17:32:49+09:00"
 }
