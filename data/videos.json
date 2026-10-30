@@ -40,6 +40,17 @@
   ],
   "shorts": [
     {
+      "id": "bD-zob5jMxA",
+      "type": "short",
+      "title": "아이방 꾸밀 때 이걸 미리 알았으면… 초등 6년 써보고 제일 좋았던 3가지",
+      "titleRaw": "아이방 꾸밀 때 이걸 미리 알았으면… 초등 6년 써보고 제일 좋았던 3가지",
+      "url": "https://www.youtube.com/shorts/bD-zob5jMxA",
+      "published": "2026-10-30T09:15:26+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/bD-zob5jMxA.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/bD-zob5jMxA/maxresdefault.jpg"
+    },
+    {
       "id": "WZmx2V0dfWo",
       "type": "short",
       "title": "집청소, 눈 뜨면 이거부터 하세요",
@@ -60,18 +71,7 @@
       "origin": "rss",
       "thumb": "data/thumbs/mxcBBzZEfMY.webp",
       "thumbRemote": "https://i.ytimg.com/vi/mxcBBzZEfMY/maxresdefault.jpg"
-    },
-    {
-      "id": "TsQ-yvftKx4",
-      "type": "short",
-      "title": "섬유유연제 칸에 이걸 넣어야 하는 이유",
-      "titleRaw": "섬유유연제 칸에 이걸 넣어야 하는 이유",
-      "url": "https://www.youtube.com/shorts/TsQ-yvftKx4",
-      "published": "2026-10-22T02:00:30+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/TsQ-yvftKx4.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/TsQ-yvftKx4/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-10-29T17:32:49+09:00"
+  "generatedAt": "2026-10-30T23:13:06+09:00"
 }
