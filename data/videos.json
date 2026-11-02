@@ -5,6 +5,17 @@
   "source": "rss",
   "long": [
     {
+      "id": "I7IHQ4Ly5C8",
+      "type": "long",
+      "title": "화장품이 이렇게 많은데 깔끔한 이유｜14년 차 메이크업 아티스트의 \"무인양품\" 화장대 정리법",
+      "titleRaw": "화장품이 이렇게 많은데 깔끔한 이유｜14년 차 메이크업 아티스트의 \"무인양품\" 화장대 정리법",
+      "url": "https://www.youtube.com/watch?v=I7IHQ4Ly5C8",
+      "published": "2026-11-02T07:03:35+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/I7IHQ4Ly5C8.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/I7IHQ4Ly5C8/hq720.jpg"
+    },
+    {
       "id": "gHiiMGK2Zsg",
       "type": "long",
       "title": "집청소, 어디부터 할지 막막하다면｜하루 30분 아침 청소루틴",
@@ -25,17 +36,6 @@
       "origin": "rss",
       "thumb": "data/thumbs/BEFr22kPnQY.webp",
       "thumbRemote": "https://i.ytimg.com/vi/BEFr22kPnQY/hq720.jpg"
-    },
-    {
-      "id": "hNFFmIJS1H8",
-      "type": "long",
-      "title": "문도 제대로 못 닫던 세탁실, 이렇게 바꾸니 빨래 건조대까지 생겼어요 ｜세탁기 위 공간 활용법",
-      "titleRaw": "문도 제대로 못 닫던 세탁실, 이렇게 바꾸니 빨래 건조대까지 생겼어요 ｜세탁기 위 공간 활용법",
-      "url": "https://www.youtube.com/watch?v=hNFFmIJS1H8",
-      "published": "2026-10-13T03:57:52+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/hNFFmIJS1H8.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/hNFFmIJS1H8/hq720.jpg"
     }
   ],
   "shorts": [
@@ -73,5 +73,5 @@
       "thumbRemote": "https://i.ytimg.com/vi/mxcBBzZEfMY/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-10-30T23:13:06+09:00"
+  "generatedAt": "2026-11-03T00:59:55+09:00"
 }
