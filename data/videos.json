@@ -7,8 +7,8 @@
     {
       "id": "I7IHQ4Ly5C8",
       "type": "long",
-      "title": "화장품이 이렇게 많은데 깔끔한 이유｜14년 차 메이크업 아티스트의 \"무인양품\" 화장대 정리법",
-      "titleRaw": "화장품이 이렇게 많은데 깔끔한 이유｜14년 차 메이크업 아티스트의 \"무인양품\" 화장대 정리법",
+      "title": "화장품이 많아도 깔끔한 화장대의 비밀｜메이크업 아티스트의 무인양품 수납템·화장도구 정리 꿀팁",
+      "titleRaw": "화장품이 많아도 깔끔한 화장대의 비밀｜메이크업 아티스트의 무인양품 수납템·화장도구 정리 꿀팁",
       "url": "https://www.youtube.com/watch?v=I7IHQ4Ly5C8",
       "published": "2026-11-02T07:03:35+00:00",
       "origin": "rss",
@@ -40,6 +40,17 @@
   ],
   "shorts": [
     {
+      "id": "kB3Ib8f0sBQ",
+      "type": "short",
+      "title": "메이크업 아티스트가 리필만 사는 이유",
+      "titleRaw": "메이크업 아티스트가 리필만 사는 이유",
+      "url": "https://www.youtube.com/shorts/kB3Ib8f0sBQ",
+      "published": "2026-11-03T01:28:08+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/kB3Ib8f0sBQ.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/kB3Ib8f0sBQ/maxresdefault.jpg"
+    },
+    {
       "id": "bD-zob5jMxA",
       "type": "short",
       "title": "아이방 꾸밀 때 이걸 미리 알았으면… 초등 6년 써보고 제일 좋았던 3가지",
@@ -60,18 +71,7 @@
       "origin": "rss",
       "thumb": "data/thumbs/WZmx2V0dfWo.webp",
       "thumbRemote": "https://i.ytimg.com/vi/WZmx2V0dfWo/maxresdefault.jpg"
-    },
-    {
-      "id": "mxcBBzZEfMY",
-      "type": "short",
-      "title": "세탁기 청소할 때 놓치기 쉬운 3곳",
-      "titleRaw": "세탁기 청소할 때 놓치기 쉬운 3곳",
-      "url": "https://www.youtube.com/shorts/mxcBBzZEfMY",
-      "published": "2026-10-24T02:00:52+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/mxcBBzZEfMY.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/mxcBBzZEfMY/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-11-03T00:59:55+09:00"
+  "generatedAt": "2026-11-04T00:12:39+09:00"
 }
