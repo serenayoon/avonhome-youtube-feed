@@ -40,6 +40,17 @@
   ],
   "shorts": [
     {
+      "id": "ayXJ8oSoNr0",
+      "type": "short",
+      "title": "메이크업 아티스트가 화장대에 트레이를 두는 이유",
+      "titleRaw": "메이크업 아티스트가 화장대에 트레이를 두는 이유",
+      "url": "https://www.youtube.com/shorts/ayXJ8oSoNr0",
+      "published": "2026-11-05T06:03:17+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/ayXJ8oSoNr0.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/ayXJ8oSoNr0/maxresdefault.jpg"
+    },
+    {
       "id": "kB3Ib8f0sBQ",
       "type": "short",
       "title": "메이크업 아티스트가 리필만 사는 이유",
@@ -60,18 +71,7 @@
       "origin": "rss",
       "thumb": "data/thumbs/bD-zob5jMxA.webp",
       "thumbRemote": "https://i.ytimg.com/vi/bD-zob5jMxA/maxresdefault.jpg"
-    },
-    {
-      "id": "WZmx2V0dfWo",
-      "type": "short",
-      "title": "집청소, 눈 뜨면 이거부터 하세요",
-      "titleRaw": "집청소, 눈 뜨면 이거부터 하세요",
-      "url": "https://www.youtube.com/shorts/WZmx2V0dfWo",
-      "published": "2026-10-29T04:36:40+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/WZmx2V0dfWo.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/WZmx2V0dfWo/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-11-04T00:12:39+09:00"
+  "generatedAt": "2026-11-06T00:29:52+09:00"
 }
