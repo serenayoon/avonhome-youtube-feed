@@ -26,14 +26,14 @@
 | `.github/workflows/update-youtube.yml` | 1시간 예약 실행 + 수동 실행 |
 
 ## 안전 장치
-- **RSS 오류(404·500·빈 목록·잘못된 응답)** → `videos.json`을 **바꾸지 않습니다.** `status.json`에 오류만 기록하고, Actions 실행은 빨간색(실패)으로 표시됩니다.
+- **RSS 오류(404·500·빈 목록·잘못된 응답)** → `videos.json`을 **바꾸지 않습니다.** 최대 3회(2.5초 간격) 재시도하고, 그래도 실패하면 `status.json`에 오류만 기록합니다. 실행은 **성공(경고 표시)**으로 끝나고 실패 메일을 보내지 않습니다.
 - 결과가 비어 있으면 기존 데이터를 덮어쓰지 않습니다. 같은 영상은 한 번만 표시합니다.
 - RSS 15개 밖으로 밀려난 영상은 oEmbed로 다시 확인합니다. **삭제·비공개(404/401/403)면 뺍니다.**
 - 조회수 0인 예정 영상(프리미어·라이브 예약)은 조회수가 생길 때까지 넣지 않습니다.
 - 모든 항목에 `origin`이 있습니다: `seed`(초기 데이터) / `rss`(자동 수집).
 
 ## 확인·복구
-- **실행 기록:** 저장소 › Actions › *Update YouTube feed* (초록=정상, 빨강=RSS 오류로 데이터 유지)
+- **실행 기록:** 저장소 › Actions › *Update YouTube feed* (초록=정상, 초록+경고 표시=RSS 일시 오류로 기존 데이터 유지)
 - **즉시 갱신:** Actions › *Update YouTube feed* › **Run workflow**
 - **RSS 장애 시험:** Run workflow에서 `simulate_rss_failure` 체크 → `videos.json`이 바뀌지 않아야 정상
 - **예약 실행이 멈췄을 때:** GitHub은 공개 저장소에 60일 동안 활동이 없으면 예약을 멈춥니다. 하루 1회 `status.json` 기록으로 막고 있지만, 멈췄다면 Actions 화면에서 **Enable workflow**를 누릅니다.

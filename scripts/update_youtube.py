@@ -11,6 +11,10 @@ Sources (in order)
 2. YouTube RSS (fallback, only if the API step fails). Type taken from the RSS link (/shorts/ vs /watch).
 No YouTube web pages are scraped.
 
+A temporary RSS outage (404/5xx/timeout) is retried a few times, and when it still fails the
+run ends successfully with a warning: the existing videos.json is kept, so there is nothing
+to alert on.
+
 Safety rules — the existing videos.json is kept unless a source returns a complete, valid result
 - any API call error, an id found in BOTH lists, or fewer than 3 valid videos of a type -> API step fails
 - RSS error / bad XML / wrong channel / empty feed -> RSS step fails
@@ -148,16 +152,37 @@ def collect_api(exclude):
     return out["long"], out["short"]
 
 # ---------------------------------------------------------------- 2. RSS (fallback)
+RSS_ATTEMPTS = 3          # 1 try + 2 retries
+RSS_RETRY_DELAY = 2.5     # seconds between attempts
+
+
+def fetch_rss():
+    """Fetch and parse the RSS feed, retrying temporary failures.
+
+    YouTube's feed server answers 404/5xx, or a cut-off body, for a few seconds at a time.
+    A single attempt therefore says little about the channel, so try RSS_ATTEMPTS times
+    before giving up. The delay is short enough to stay well inside the job timeout.
+    """
+    last = "unknown"
+    for attempt in range(1, RSS_ATTEMPTS + 1):
+        status, body = http(RSS_URL)
+        if status != 200:
+            last = f"RSS HTTP {status}"
+        else:
+            try:
+                return ET.fromstring(body)
+            except ET.ParseError:
+                last = "RSS XML parse error"
+        if attempt < RSS_ATTEMPTS:
+            log(f"  RSS attempt {attempt}/{RSS_ATTEMPTS} failed ({last}) — retrying in {RSS_RETRY_DELAY:g}s")
+            time.sleep(RSS_RETRY_DELAY)
+    raise ApiError(f"{last} (after {RSS_ATTEMPTS} attempts)")
+
+
 def collect_rss(exclude):
     if os.environ.get("SIMULATE_RSS_FAILURE", "").lower() == "true":
-        raise ApiError("simulated RSS failure (test)")
-    status, body = http(RSS_URL)
-    if status != 200:
-        raise ApiError(f"RSS HTTP {status}")
-    try:
-        root = ET.fromstring(body)
-    except ET.ParseError:
-        raise ApiError("RSS XML parse error")
+        raise ApiError("simulated RSS failure (test)")  # test input: never retried
+    root = fetch_rss()
     if (root.findtext("yt:channelId", namespaces=NS) or "").removeprefix("UC") != TAIL:
         raise ApiError("RSS channel mismatch")
     items = {"long": [], "short": []}
@@ -298,8 +323,15 @@ def main():
         status["heartbeat"] = today
         save(STATUS, status)
         log("  status.json written")
-    # 'rss_ok' kept as the output name used by the workflow: true = fresh data from API or RSS
-    write_output({"rss_ok": "true" if fresh else "false", "source": source or "none"})
+    # Outputs read by the workflow.
+    # A temporary RSS outage is reported as a warning and the run stays successful: the
+    # existing videos.json is kept, so an hourly failure notice said nothing useful.
+    # 'fresh' is the clear flag. 'rss_ok' is kept because the workflow still tests that name;
+    # it carries 'warn' (never the literal 'false' its hard-fail step looks for), so that
+    # step is skipped and the outage shows up as the ::warning:: below instead.
+    write_output({"fresh": "true" if fresh else "false",
+                  "rss_ok": "true" if fresh else "warn",
+                  "source": source or "none"})
     if not fresh:
         log("::warning::No fresh data (API and RSS failed) — existing videos.json kept")
     return 0
