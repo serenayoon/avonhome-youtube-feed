@@ -5,6 +5,17 @@
   "source": "rss",
   "long": [
     {
+      "id": "r6Mq4ql7DHw",
+      "type": "long",
+      "title": "청소를 덜 미루는 법｜무선청소기를 고를 때 꼭 보는 4가지",
+      "titleRaw": "청소를 덜 미루는 법｜무선청소기를 고를 때 꼭 보는 4가지 #모온오비큠 #무선청소기",
+      "url": "https://www.youtube.com/watch?v=r6Mq4ql7DHw",
+      "published": "2026-11-10T10:34:31+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/r6Mq4ql7DHw.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/r6Mq4ql7DHw/hq720.jpg"
+    },
+    {
       "id": "I7IHQ4Ly5C8",
       "type": "long",
       "title": "화장품이 많아도 깔끔한 화장대의 비밀｜메이크업 아티스트의 무인양품 수납템·화장도구 정리 꿀팁",
@@ -25,17 +36,6 @@
       "origin": "rss",
       "thumb": "data/thumbs/gHiiMGK2Zsg.webp",
       "thumbRemote": "https://i.ytimg.com/vi/gHiiMGK2Zsg/hq720.jpg"
-    },
-    {
-      "id": "BEFr22kPnQY",
-      "type": "long",
-      "title": "매년 15만 원 들던 세탁기 청소, 제가 직접 해요｜단정한 집을 위한 월 1회 청소 루틴",
-      "titleRaw": "매년 15만 원 들던 세탁기 청소, 제가 직접 해요｜단정한 집을 위한 월 1회 청소 루틴",
-      "url": "https://www.youtube.com/watch?v=BEFr22kPnQY",
-      "published": "2026-10-20T06:30:17+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/BEFr22kPnQY.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/BEFr22kPnQY/hq720.jpg"
     }
   ],
   "shorts": [
@@ -73,5 +73,5 @@
       "thumbRemote": "https://i.ytimg.com/vi/kB3Ib8f0sBQ/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-11-10T02:33:18+09:00"
+  "generatedAt": "2026-11-11T02:52:52+09:00"
 }
