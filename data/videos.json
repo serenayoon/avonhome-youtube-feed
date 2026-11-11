@@ -40,6 +40,17 @@
   ],
   "shorts": [
     {
+      "id": "Od-2aLmIqes",
+      "type": "short",
+      "title": "초6 아이방 공부템 Best 10 📚",
+      "titleRaw": "초6 아이방 공부템 Best 10 📚",
+      "url": "https://www.youtube.com/shorts/Od-2aLmIqes",
+      "published": "2026-11-11T09:50:07+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/Od-2aLmIqes.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/Od-2aLmIqes/maxresdefault.jpg"
+    },
+    {
       "id": "cK2Q6WUL6Ss",
       "type": "short",
       "title": "청소기 살 때 저는 무조건 이걸 봐요",
@@ -60,18 +71,7 @@
       "origin": "rss",
       "thumb": "data/thumbs/ayXJ8oSoNr0.webp",
       "thumbRemote": "https://i.ytimg.com/vi/ayXJ8oSoNr0/maxresdefault.jpg"
-    },
-    {
-      "id": "kB3Ib8f0sBQ",
-      "type": "short",
-      "title": "메이크업 아티스트가 리필만 사는 이유",
-      "titleRaw": "메이크업 아티스트가 리필만 사는 이유",
-      "url": "https://www.youtube.com/shorts/kB3Ib8f0sBQ",
-      "published": "2026-11-03T01:28:08+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/kB3Ib8f0sBQ.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/kB3Ib8f0sBQ/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-11-11T02:52:52+09:00"
+  "generatedAt": "2026-11-12T00:16:40+09:00"
 }
