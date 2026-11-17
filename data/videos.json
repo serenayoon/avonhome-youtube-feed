@@ -5,6 +5,17 @@
   "source": "rss",
   "long": [
     {
+      "id": "tCk8HK50G50",
+      "type": "long",
+      "title": "3번 바꿔보고 알게 된 초등학생 방 꾸미기｜책상·옷장·침대부터 사지 마세요",
+      "titleRaw": "3번 바꿔보고 알게 된 초등학생 방 꾸미기｜책상·옷장·침대부터 사지 마세요",
+      "url": "https://www.youtube.com/watch?v=tCk8HK50G50",
+      "published": "2026-11-17T09:18:06+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/tCk8HK50G50.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/tCk8HK50G50/hq720.jpg"
+    },
+    {
       "id": "r6Mq4ql7DHw",
       "type": "long",
       "title": "청소를 덜 미루는 법｜무선청소기를 고를 때 꼭 보는 4가지",
@@ -25,17 +36,6 @@
       "origin": "rss",
       "thumb": "data/thumbs/I7IHQ4Ly5C8.webp",
       "thumbRemote": "https://i.ytimg.com/vi/I7IHQ4Ly5C8/hq720.jpg"
-    },
-    {
-      "id": "gHiiMGK2Zsg",
-      "type": "long",
-      "title": "집청소, 어디부터 할지 막막하다면｜하루 30분 아침 청소루틴",
-      "titleRaw": "집청소, 어디부터 할지 막막하다면｜하루 30분 아침 청소루틴",
-      "url": "https://www.youtube.com/watch?v=gHiiMGK2Zsg",
-      "published": "2026-10-26T06:42:05+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/gHiiMGK2Zsg.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/gHiiMGK2Zsg/hq720.jpg"
     }
   ],
   "shorts": [
@@ -73,5 +73,5 @@
       "thumbRemote": "https://i.ytimg.com/vi/ayXJ8oSoNr0/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-11-12T00:16:40+09:00"
+  "generatedAt": "2026-11-17T23:28:25+09:00"
 }
