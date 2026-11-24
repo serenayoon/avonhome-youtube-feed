@@ -5,6 +5,17 @@
   "source": "rss",
   "long": [
     {
+      "id": "Z0KPOzgilGg",
+      "type": "long",
+      "title": "주말에 쉬어도 개운한 집의 '청소 비밀' | 40대 부부 겨울맞이 대청소 · 거실 정리 브이로그🧹",
+      "titleRaw": "주말에 쉬어도 개운한 집의 '청소 비밀' | 40대 부부 겨울맞이 대청소 · 거실 정리 브이로그🧹",
+      "url": "https://www.youtube.com/watch?v=Z0KPOzgilGg",
+      "published": "2026-11-24T05:54:04+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/Z0KPOzgilGg.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/Z0KPOzgilGg/hq720.jpg"
+    },
+    {
       "id": "tCk8HK50G50",
       "type": "long",
       "title": "3번 바꿔보고 알게 된 초등학생 방 꾸미기｜책상·옷장·침대부터 사지 마세요",
@@ -25,17 +36,6 @@
       "origin": "rss",
       "thumb": "data/thumbs/r6Mq4ql7DHw.webp",
       "thumbRemote": "https://i.ytimg.com/vi/r6Mq4ql7DHw/hq720.jpg"
-    },
-    {
-      "id": "I7IHQ4Ly5C8",
-      "type": "long",
-      "title": "화장품이 많아도 깔끔한 화장대의 비밀｜메이크업 아티스트의 무인양품 수납템·화장도구 정리 꿀팁",
-      "titleRaw": "화장품이 많아도 깔끔한 화장대의 비밀｜메이크업 아티스트의 무인양품 수납템·화장도구 정리 꿀팁",
-      "url": "https://www.youtube.com/watch?v=I7IHQ4Ly5C8",
-      "published": "2026-11-02T07:03:35+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/I7IHQ4Ly5C8.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/I7IHQ4Ly5C8/hq720.jpg"
     }
   ],
   "shorts": [
@@ -73,5 +73,5 @@
       "thumbRemote": "https://i.ytimg.com/vi/ayXJ8oSoNr0/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-11-17T23:28:25+09:00"
+  "generatedAt": "2026-11-24T19:58:18+09:00"
 }
