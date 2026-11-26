@@ -40,6 +40,17 @@
   ],
   "shorts": [
     {
+      "id": "jmYOgNJ0rpk",
+      "type": "short",
+      "title": "옷장 속 잔잔바리 이것만 잡아도 정리 끝",
+      "titleRaw": "옷장 속 잔잔바리 이것만 잡아도 정리 끝",
+      "url": "https://www.youtube.com/shorts/jmYOgNJ0rpk",
+      "published": "2026-11-26T09:09:16+00:00",
+      "origin": "rss",
+      "thumb": "data/thumbs/jmYOgNJ0rpk.webp",
+      "thumbRemote": "https://i.ytimg.com/vi/jmYOgNJ0rpk/maxresdefault.jpg"
+    },
+    {
       "id": "Od-2aLmIqes",
       "type": "short",
       "title": "초6 아이방 공부템 Best 10 📚",
@@ -60,18 +71,7 @@
       "origin": "rss",
       "thumb": "data/thumbs/cK2Q6WUL6Ss.webp",
       "thumbRemote": "https://i.ytimg.com/vi/cK2Q6WUL6Ss/maxresdefault.jpg"
-    },
-    {
-      "id": "ayXJ8oSoNr0",
-      "type": "short",
-      "title": "메이크업 아티스트가 화장대에 트레이를 두는 이유",
-      "titleRaw": "메이크업 아티스트가 화장대에 트레이를 두는 이유",
-      "url": "https://www.youtube.com/shorts/ayXJ8oSoNr0",
-      "published": "2026-11-05T06:03:17+00:00",
-      "origin": "rss",
-      "thumb": "data/thumbs/ayXJ8oSoNr0.webp",
-      "thumbRemote": "https://i.ytimg.com/vi/ayXJ8oSoNr0/maxresdefault.jpg"
     }
   ],
-  "generatedAt": "2026-11-24T19:58:18+09:00"
+  "generatedAt": "2026-11-26T18:33:20+09:00"
 }
